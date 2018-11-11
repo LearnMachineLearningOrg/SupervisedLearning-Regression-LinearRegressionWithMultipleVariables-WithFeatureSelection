@@ -23,3 +23,4 @@ Python modules being used:
 3. numpy: NumPy is the fundamental package for scientific computing with Python.
 4. matplotlib: matplotlib is a plotting library for the Python programming language.
 5. sklearn: It features various classification, regression and clustering algorithms including support vector machines, random forests, gradient boosting, k-means and DBSCAN
+6. sklearn.feature_selection: SelectKBest: It is used to select the best features for running the regression
